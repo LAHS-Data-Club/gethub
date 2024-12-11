@@ -4,7 +4,6 @@
 			<span class="caption">LAHS Data Club</span>
 			<div class="heading">
 				<span>GET<span class="unbold">hub</span></span>
-				<img src="img/logo.svg" alt="LAHS Data Club Logo" width="150" height="150" />
 			</div>
 		</h1>
 	</a>
