@@ -11,7 +11,7 @@
 		"format": "prettier --write .",
 		"lint": "prettier --check . && eslint ."
 	},
-	"engines" {
+	"engines": {
     	"node": "18.x"
   	},
 	"devDependencies": {
